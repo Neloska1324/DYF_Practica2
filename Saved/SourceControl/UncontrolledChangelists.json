@@ -5,7 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
-				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/GameArcade/Scenes/Arcade.umap"
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/GameArcade/Scenes/Arcade.umap",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Seafoam_Bubbler_Jukebox_-_Free/Seafoam_Bubbler_Jukebox/StaticMeshes/Seafoam_Bubbler_Jukebox.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Seafoam_Bubbler_Jukebox_-_Free/Seafoam_Bubbler_Jukebox/Textures/Seafoam_Bubbler_Jukebox_Color.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Seafoam_Bubbler_Jukebox_-_Free/Seafoam_Bubbler_Jukebox/Materials/Seafoam_Bubbler_Jukebox_GameReady_Material.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Seafoam_Bubbler_Jukebox_-_Free/Seafoam_Bubbler_Jukebox/Textures/Seafoam_Bubbler_Jukebox_Metallic-Seafoam_Bubbler_Jukebox_Roughness.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Seafoam_Bubbler_Jukebox_-_Free/Seafoam_Bubbler_Jukebox/Textures/Seafoam_Bubbler_Jukebox_Normal.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/Materials/02_-_Default.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/Materials/03_-_Default.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/Materials/default.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/StaticMeshes/game_ready_uhd_curved_tv.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/Textures/game_ready_uhd_curved_tv_texture_0.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Game_Ready_UHD_Curved_TV/game_ready_uhd_curved_tv/Textures/game_ready_uhd_curved_tv_texture_1.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Poker_Table/sm_pokertable/Materials/poker_table.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Poker_Table/sm_pokertable/StaticMeshes/sm_pokertable.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Poker_Table/sm_pokertable/Textures/sm_pokertable_texture_0.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Poker_Table/sm_pokertable/Textures/sm_pokertable_texture_1.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Poker_Table/sm_pokertable/Textures/sm_pokertable_texture_2.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Materials/Poster.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/StaticMeshes/worn_sci_fi_retro_travel_poster.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_0.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_0_Mat.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_1.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_1_Mat.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_2.uasset",
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/Fab/Worn_Sci-Fi_Retro_Travel_Poster/worn_sci_fi_retro_travel_poster/Textures/worn_sci_fi_retro_travel_poster_texture_2_Mat.uasset"
 			]
 		}
 	]
