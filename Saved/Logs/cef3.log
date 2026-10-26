@@ -1,0 +1,84 @@
+[7296:7872:1026/143123.375:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7296:7872:1026/143123.489:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12252:16232:1026/143125.082:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-403886F7D90D24F35DAD1D136FB3C7D6 will be ignored
+[7296:8968:1026/143200.023:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[7296:7872:1026/143200.404:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[7296:7872:1026/143200.404:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[7296:7872:1026/143200.404:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[7296:7872:1026/143200.404:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[7296:7872:1026/143200.483:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[7296:7872:1026/143200.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[7296:7872:1026/143200.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[7296:7872:1026/143200.484:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[14568:11840:1026/143200.625:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[14568:5868:1026/143200.910:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[14568:11840:1026/143202.299:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[14568:19100:1026/143202.517:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[7296:7872:1026/143203.260:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[7296:7872:1026/143203.261:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[14568:21608:1026/143205.734:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16228:13796:1026/143845.223:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-4A52DCC84F519853DD8D0FEC52390780 will be ignored
+[7296:8968:1026/143955.675:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[7296:7872:1026/143955.762:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[7296:7872:1026/143955.762:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[7296:7872:1026/143955.762:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[7296:7872:1026/143955.762:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[7296:7872:1026/143955.764:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,12]
+[7296:7872:1026/143955.764:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,12]
+[7296:7872:1026/143955.764:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,12]
+[7296:7872:1026/143955.764:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,12]
+[7296:7872:1026/143956.377:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[7296:7872:1026/143956.377:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[7296:14464:1026/171349.214:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:1320:1026/171349.221:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7296:20652:1026/171349.302:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:1320:1026/171349.346:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7296:14464:1026/171349.348:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:20972:1026/171432.511:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -200
+[7296:14464:1026/171635.834:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:14228:1026/171635.840:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:14228:1026/171636.976:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[14120:1320:1026/171636.997:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7296:20652:1026/171637.000:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[4100:1064:1026/171727.840:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 10-D979AC41FB9CB2ACF371FE22623876EB will be ignored
+[7296:8968:1026/171752.174:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,20]
+[7296:7872:1026/171752.669:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,20]
+[7296:7872:1026/171752.669:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,20]
+[7296:7872:1026/171752.669:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,20]
+[7296:7872:1026/171752.669:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,20]
+[7296:7872:1026/171752.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,23]
+[7296:7872:1026/171752.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,23]
+[7296:7872:1026/171752.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,23]
+[7296:7872:1026/171752.673:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,23]
+[14568:19100:1026/171753.494:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[7296:7872:1026/171754.485:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[7296:7872:1026/171754.485:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[10752:18592:1026/172133.496:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-570FC5DD101E05BF66430BDD18C8FC81 will be ignored
+[7296:8968:1026/172238.853:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,30]
+[7296:7872:1026/172239.008:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,30]
+[7296:7872:1026/172239.008:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,30]
+[7296:7872:1026/172239.008:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,30]
+[7296:7872:1026/172239.008:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,30]
+[7296:7872:1026/172239.071:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,33]
+[7296:7872:1026/172239.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,33]
+[7296:7872:1026/172239.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,33]
+[7296:7872:1026/172239.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,33]
+[14568:17920:1026/172240.076:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[7296:7872:1026/172243.108:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[7296:7872:1026/172243.108:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[7296:7872:1026/173010.795:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
