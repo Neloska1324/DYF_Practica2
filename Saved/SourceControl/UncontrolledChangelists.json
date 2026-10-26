@@ -5,24 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
-				"C:/Users/Usuario/Downloads/Practica2_Dispositivosyformatos (3)/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/Pinball.uasset",
-				"C:/Users/Usuario/Downloads/Practica2_Dispositivosyformatos (3)/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Modelos/bola.uasset",
-				"C:/Users/Usuario/Downloads/Practica2_Dispositivosyformatos (3)/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/materials/bolaphysicalmaterial.uasset",
-				"C:/Users/Usuario/Downloads/Practica2_Dispositivosyformatos (3)/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/GameArcade/Scenes/Arcade.umap",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/Pinball.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/GameArcade/Scenes/Arcade.umap",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Input/IMC_pinball.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/materials/board_wood.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/Pinball.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/GameArcade/Scenes/Arcade.umap",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Input/Actions/plipper_drch.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Input/Actions/plipper_izq.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos (1)/Practica2_Dispositivosyformatos/Content/Input/IMC_pinball.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Input/Actions/lanzador.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Input/Actions/plipper_drch.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Input/Actions/plipper_izq.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Modelos/bola.uasset",
-				"C:/Users/UBU/Downloads/Practica2_Dispositivosyformatos/Content/Modelos/Pinball/materials/bolaphysicalmaterial.uasset"
+				"C:/Users/Nel/Documents/Unreal Projects/DYF_P2/Content/GameArcade/Scenes/Arcade.umap"
 			]
 		}
 	]
